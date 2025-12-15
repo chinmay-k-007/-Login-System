@@ -1,10 +1,10 @@
 # Simple-Login-System
 
 # Member's names
->>Jinesh S Parmar PES1UG25CS623 C11
->>Gyanendra Kumar PES1UG25CS195 C11
->>Kalmesh B PES1UG25CS240 C11
->>Chinmay K PES1UG25CS144 C11
+>>Jinesh S Parmar PES1UG25CS623 C11,
+>>Gyanendra Kumar PES1UG25CS195 C11,
+>>Kalmesh B PES1UG25CS240 C11,
+>>Chinmay K PES1UG25CS144 C11,
                          
 # Problem statement
 >>To develop a simple, file-based, web application that allows users to register new accounts and log in securely. The system must persist user credentials (username and password) by storing them in a local CSV file, providing a basic, yet functional, demonstration of user authentication and session management in a web context using Python's Streamlit framework.
